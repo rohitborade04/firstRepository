@@ -11,6 +11,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+
+            Console.WriteLine("hello nandu i a, ro");
+            Console.WriteLine("hello nandu i am ro");
         }
     }
 }
